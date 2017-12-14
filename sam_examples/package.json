@@ -1,0 +1,18 @@
+{
+  "name": "about.me",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node about.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "",
+    "express": "4.13.x",
+    "morgan": "1.6.x",
+    "cron": "1.0.x",
+    "request": "2.64.x",
+    "xml2js":"0.4.15" 
+  },
+  "preferGlobal": false,
+  "private": true
+}
